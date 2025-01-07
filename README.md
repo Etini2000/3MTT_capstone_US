@@ -18,5 +18,6 @@ The source of data for this capstone project contained 6 <a href = "https://www.
 5. Day_wise
 6. COVID-19_clean_complete
 
-Out of the six datasets, two (OVID-19_clean_complete and Full_grouped) were selected because they were relevant to helping me achieve my project aims and objectives. 
+Out of the six datasets, two (COVID-19_clean_complete and Full_grouped) were selected because they were relevant to helping me achieve my project aims and objectives. 
+
 The details of the project are summarized in this <a href = "https://github.com/Etini2000/3MTT_capstone_US/blob/main/Capstone%20Technical%20Report.docx">technical report</a>.
