@@ -1,4 +1,4 @@
-# 3MTT US COVID 19 prediction capstone project
+# 3MTT US COVID-19 Prediction Capstone Project
 
 ## Aim of the project
 To use historical COVID-19 data to develop predictive models to forecast COVID-19 trends in the United States. 
